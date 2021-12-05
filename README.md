@@ -7,7 +7,7 @@ LinkedIn Profile: [Raman Sewjugath](https://www.linkedin.com/in/ramansewjugath/ 
 
 #### Level 1 Projects
 - [Capstone Project 1.1 - Nested Loops](https://github.com/Raman236/Personal-Projects/tree/main/Capstone%20Project%201.1%20-%20Nested%20Loops)
-- [Capstone Project 1.2 - Consolidation](https://github.com/Raman236/Personal-Projects/tree/main/Capstone%20Project%201.2%20-%20Consolidation)
+- [Capstone Project 1.2 - Consolidation, OOP](https://github.com/Raman236/Personal-Projects/tree/main/Capstone%20Project%201.2%20-%20Consolidation)
 - [Capstone Project 1.3 - Introductory NLP](https://github.com/Raman236/Personal-Projects/tree/main/Capstone%20Project%201.3%20-%20Introductory%20NLP)
 
 #### Level 2 Projects
