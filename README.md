@@ -31,6 +31,7 @@ LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
   - Neural Networks
     - Keras, Tensorflow
     - Recurrent Neural Networks
+    - convolutional neural network
     - Sentiment Analysis 
 - **Software**
   - Tableau
@@ -42,12 +43,25 @@ LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
   - Presentation
 
 # Education
-**Data Science Bootcamp (2021) - 98% Average**<br>
-[HyperionDev](https://www.hyperiondev.com/?utm_source=direct&utm_medium=referral&utm_campaign=earn_R2500&referral_code=MMH9TZ15)
-- Python for Data Science
-- Data Analytics & Exploration
-- Machine Learning & AI
+1. **[HyperionDev](https://www.hyperiondev.com/?utm_source=direct&utm_medium=referral&utm_campaign=earn_R2500&referral_code=MMH9TZ15)**
+  - Data Science Bootcamp
+    - Python for Data Science
+    - Data Analytics & Exploration
+    - Machine Learning & AI
+  - *Completed: JAN 2022 - 98% Average*
 
+
+2. **University of KwaZulu-Natal**<br>
+Bachelor of Science (BSc) Honours<br>
+Biochemistry<br>
+Grade (3.32/4.00 GPA)<br>
+graduated: DEC 2016
+
+
+3. **University of KwaZulu-Natal**<br>
+Bachelor of Science (BSc)<br>
+Biochemistry and Chemistry<br>
+graduated: DEC 2015
 
 
 # Work Experience
