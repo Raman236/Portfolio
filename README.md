@@ -1,3 +1,12 @@
+# Biography
+Being a Biochemist, I had to take an extra module, and I had accidentally enrolled in JAVA programming for a whole semester instead of a simple computer module. At first, I was scared but thrilled and excited! We only learnt the basics; however, I took it further and started writing biochemistry GUI learning programs built using Netbeans IDE. Computers have always intrigued me from a very young age. I remember my Intel Pentium II, with a 5GB HDD and 64 MB RAM. I would fiddle with everything, from software tinkering to taking the tower apart and reassembling it.
+
+After I completed my Honours in Biochemistry (2016), I was employed as a research assistant at IWWT, and would often find some ideas to simplify our workflow. I would often create intuitive dashboards in excel and even populated access databases using form entries that I had created, rather than using excel itself, experimenting with self-hosted CRM and Project Management scripts hosted on my server. It's exciting actually to see by experience how technology simplifies workflow.
+
+I had the opportunity to complete a Data Science Bootcamp with HyperionDev, and so I grabbed it. Been loving all the skills I have been learning and finding so many applications for them. I have a new perspective and appreciation for data. The possibilities of informational discovery are endless!
+As a critical thinker, my specialities include being adaptable and learning new skills quickly, problem-solving, working alone or as part of a team. I have learnt thus far; Tableau, Python, Structured Query Language (SQL) and SQLite, Design and build relational databases, Natural Language Processing (NLP), techniques in Data Wrangling and Exploratory Data Analysis (EDA) and Visualization, NumPy, Pandas, Matplotlib, Seaborn, and Git/GitHub. My journey has just begun, I have started learning Machine Learning and Neural Networks, and I am excited about the future and what exciting mysteries in programming and Data Science await me!
+
+
 # **PERSONAL PROJECTS**
 Capstone and Personal Projects I have worked on Since I have first started studying Data Science<br>
 LinkedIn Profile: [Raman Sewjugath](https://www.linkedin.com/in/ramansewjugath/ "Click to open")
