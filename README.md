@@ -41,6 +41,15 @@ LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
   - Team Management
   - Presentation
 
+# Education
+**Data Science Bootcamp (2021) - 98% Average**<br>
+HyperionDev
+- Python for Data Science
+- Data Analytics & Exploration
+- Machine Learning & AI
+
+
+
 # Work Experience
 **Institute for Water and Wastewater Technology (2017 to present)**<br>
 Graduated with Honors in Biochemistry, taking on a novel research project (certificate of merit awarded): “Growth media evaluation for cultivation and metallic nanoparticle production in Desulfovibrio magneticus RS-1.” RS-1 growth curves were produced using the optical density of the culture, and analysis performed by transmission electron microscopy to determine whether magnetosomes were produced by the bacteria. Nanoparticles were isolated followed by characterization using energy dispersive X-ray (EDX) and the TEM sizing software iTEM.
