@@ -9,13 +9,18 @@ Then Created a report on the data explored
 
 ![Elbow plot](https://github.com/Raman236/Portfolio/blob/main/Capstone%20Project%203.2%20-%20Unsupervised%20Machine%20Learning/elbow%20plot.png)
 
+![K-means](https://github.com/Raman236/Portfolio/blob/main/Capstone%20Project%203.2%20-%20Unsupervised%20Machine%20Learning/K-Menas.png)
+
 - **Achievements:**
   - Applied Principal Component Analysis Techniques
   - Applied Hierarchical Clustering technique
 
 - **What I learnt:**
-  - split data into training and test
-  - use Logistic regression and Random Forests to classify images numerically
-  - Tune model parameters
-  - generate confusion matrices
+  - PCA for classification
+  - Hierarchical Clustering for classification and select the best model
+  - K-Means Clustering
+  - How to tune these model parameters
+  - Generate Elbow plot
+  - Plot model predictions
   - Report on the accuracy and precision, recall and f1 scores
+  - Generate a report for client
