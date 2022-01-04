@@ -19,13 +19,19 @@ LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
   - Pandas, NumPy
   - Matplotlib, Seaborn
   - SQL, SQLite
+  - Database Management
   - Scikit-Learn
   - Machine Learning
     - Linear regression
     - Logistic Regression
     - Decision Trees
     - Principal Component Analysis
+    - Hierarchical Clustering
+    - K-means Clustering
   - Neural Networks
+    - Keras, Tensorflow
+    - Recurrent Neural Networks
+    - Sentiment Analysis 
 - **Software**
   - Tableau
   - Microsoft Office (Excel, Word, Powerpoint, Access)
