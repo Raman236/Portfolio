@@ -6,6 +6,24 @@ After I completed my Honours in Biochemistry (2016), I was employed as a researc
 I had the opportunity to complete a Data Science Bootcamp with HyperionDev, and so I grabbed it. Been loving all the skills I have been learning and finding so many applications for them. I have a new perspective and appreciation for data. The possibilities of informational discovery are endless!
 As a critical thinker, my specialities include being adaptable and learning new skills quickly, problem-solving, working alone or as part of a team. I have learnt thus far; Tableau, Python, Structured Query Language (SQL) and SQLite, Design and build relational databases, Natural Language Processing (NLP), techniques in Data Wrangling and Exploratory Data Analysis (EDA) and Visualization, NumPy, Pandas, Matplotlib, Seaborn, and Git/GitHub. My journey has just begun, I have started learning Machine Learning and Neural Networks, and I am excited about the future and what exciting mysteries in programming and Data Science await me!
 
+# Contact
+Name: Raman Sewjugath<br>
+Mobile: +27 74 897 6060<br>
+Email: ramanr236@outlook.com<br>
+LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
+
+# Skills
+- **Data Science**
+  - Python
+  - Natural Language Processing (NLP)
+  - Pandas, NumPy
+  - Matplotlib, Seaborn
+- **Software**
+  - Tableau 
+  - Adobe Photoshop 
+- **Others**
+  - Photography
+
 
 # **PERSONAL PROJECTS**
 Capstone and Personal Projects I have worked on Since I have first started studying Data Science<br>
