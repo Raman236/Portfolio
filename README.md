@@ -24,6 +24,9 @@ LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
 - **Others**
   - Photography
 
+# Work Experience
+**Institute for Water and Wastewater Technology (2017 to present)**
+Graduated with Honors in Biochemistry, taking on a novel research project (certificate of merit awarded): “Growth media evaluation for cultivation and metallic nanoparticle production in Desulfovibrio magneticus RS-1.” RS-1 growth curves were produced using the optical density of the culture, and analysis performed by transmission electron microscopy to determine whether magnetosomes were produced by the bacteria. Nanoparticles were isolated followed by characterization using energy dispersive X-ray (EDX) and the TEM sizing software iTEM.
 
 # **PERSONAL PROJECTS**
 Capstone and Personal Projects I have worked on Since I have first started studying Data Science<br>
