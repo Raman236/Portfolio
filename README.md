@@ -18,11 +18,17 @@ LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
   - Natural Language Processing (NLP)
   - Pandas, NumPy
   - Matplotlib, Seaborn
+  - SQL, SQLite
+  - Machine Learning
+  - Neural Networks
 - **Software**
-  - Tableau 
+  - Tableau
+  - Microsoft Office (Excel, Word, Powerpoint, Access)
   - Adobe Photoshop 
 - **Others**
   - Photography
+  - Team Management
+  - Presentation
 
 # Work Experience
 **Institute for Water and Wastewater Technology (2017 to present)**
