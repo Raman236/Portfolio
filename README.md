@@ -8,7 +8,7 @@ As a critical thinker, my specialities include being adaptable and learning new 
 
 # Contact
 Name: Raman Sewjugath<br>
-Mobile: +27 74 897 6060<br>
+Mobile: +64 27 417 9227<br>
 Email: ramanr236@outlook.com<br>
 LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
 
