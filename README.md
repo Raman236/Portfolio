@@ -49,6 +49,7 @@ LinkedIn: [Raman](https://www.linkedin.com/in/ramansewjugath/)
     - Data Analytics & Exploration
     - Machine Learning & AI
   - *Completed: JAN 2022 - 98% Average*
+  - [Public Portfolio View](https://www.hyperiondev.com/portfolio/73144/)
 
 
 2. **University of KwaZulu-Natal**<br>
